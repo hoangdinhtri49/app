@@ -1,0 +1,44 @@
+body{
+  font-family: "Time News Roman", "Verdana", sans-serif;
+  background-color: #BBC750;
+  margin: auto;
+}
+
+div.dangNhap{
+  width: 350px;
+  height: 200px;
+  margin-top: 15%;
+  margin-bottom: -45%;
+  margin-left: 35%;
+  margin-right: 20%;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5%;
+}
+
+input.pass{
+  margin-left: 4px;
+}
+
+h2.title{
+  width: 150px;
+  margin-left: 30%;
+}
+
+p.dangKy{
+  width: 400px;
+  height: 50px;
+  margin-top: 45%;
+  margin-left: 33%;
+}
+
+form.dKy{
+  width: 300px;
+  height: 100px;
+  margin-left: 20px;
+}
+
+button.button{
+  margin-left: 38%;
+  margin-top: 10%;
+}
